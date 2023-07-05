@@ -14,5 +14,5 @@ This analysis comprises the following datasets, each containing different types 
 # Tools
 For this project , the following python libraries were used:
 
-pandas - for data analysis
-seaborn - for data visualization
+- pandas - for data analysis
+- seaborn - for data visualization
